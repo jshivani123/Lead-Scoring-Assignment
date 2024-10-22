@@ -10,4 +10,4 @@ This file contains the business problem that we are trying to solve here, analys
 This file contains the answers to various business specific questions.
 
 ## Summary
-This file contains a brief summary report of the business problem solving approach and our learnings during while working on this assignment.
+This file contains a brief summary report of the business problem solving approach and our learnings from this assignment.
