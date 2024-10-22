@@ -6,8 +6,8 @@ Please check this report for exploratory data analysis and model building proces
 ## Lead Scoring Presentation
 This file contains the business problem that we are trying to solve here, analysis and overall approach of the assignment.
 
-## Word Document
+## Lead Scoring Subjective Questions
 This file contains the answers to various business specific questions.
 
-## Summary
+## Lead Scoring Summary
 This file contains a brief summary report of the business problem solving approach and our learnings from this assignment.
